@@ -6,4 +6,6 @@ Este repositorio es una tarea de Lab computacionales del 2020, año en el cual t
 Quien es el autor? Es una buena pregunta
 ![Floridablanca, Santander](https://2.bp.blogspot.com/-sPZyekqGxy0/VH1BYUwrnmI/AAAAAAAAB_w/vqwgdrsL-HI/s1600/Tamales%2BTolimenses%2BSySPMS.jpg "Que viva el san pedro en el espinal")
 ## Colaborador
-Tu amigo y vecino el hombr- Ever Quintero (y David Jurado)
+Tu amigo y vecino el culea burras- Ever Quintero 
+
+(y David Jurado)
